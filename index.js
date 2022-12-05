@@ -20,7 +20,7 @@ function play(question,answer)
     console.log("You are wrong!");
   }
     console.log("Current Score is: " + score);
-    console.log("-------------------\n");
+    console.log("------------\n");
 }
 
 var questions = [{
